@@ -1,6 +1,6 @@
 <html>
 <body>
 <h2>Hello World!</h2>
-test
+<a href="next.jsp">link</a>
 </body>
 </html>
